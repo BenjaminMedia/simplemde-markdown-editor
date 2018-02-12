@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "codemirror": "*",
-    "codemirror-spell-checker": "*",
+    "codemirror-spell-checker": "https://github.com/BenjaminMedia/codemirror-spell-checker.git",
     "marked": "*"
   },
   "devDependencies": {
